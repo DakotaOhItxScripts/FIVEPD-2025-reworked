@@ -1,0 +1,35 @@
+{
+    "global": {
+        "hasPassenger": 50,
+        "chanceOfStartingPursuit": 35,
+        "passengerHavingWeapon": 40
+    },
+    "warrants": [
+        "NO DRIVERS LICENSE",
+        "PUBLIC INTOXICATION",
+        "CRIMINAL THREATENING",
+        "SECOND DEGREE ASSAULT",
+        "SHOPLIFTING",
+        "STALKING",
+        "BURGLARY",
+        "SALE OF A CONTROLLED DRUG",
+        "RECEIVING / POSSESSION OF STOLEN PROPERTY",
+        "FELONIOUS USE OF A FIREARM",
+        "SIMPLE ASSAULT",
+        "CRIMINAL TRESPASS",
+        "THEFT",
+        "VIOL OF BAIL CONDITIONS",
+        "ORGANISED CRIME",
+        "THEFT OF A MOTOR VEHICLE",
+        "POSSESSION OF DANGEROUS WEAPON",
+        "POSSESSION OF DRUGS",
+        "CONDUCT AFTER ACCIDENT",
+        "CRIMINAL MISCHIEF",
+        "SEX OFFENDER FAIL TO REGISTER",
+        "CONTEMPT OF COURT",
+        "DUTY TO REPORT",
+        "BREACH OF BAIL",
+        "OBSTRUCTING",
+        "VIOLATION OF PROTECTIVE ORDER"
+    ]
+}

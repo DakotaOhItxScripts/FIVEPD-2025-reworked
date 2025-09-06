@@ -1,0 +1,39 @@
+END USER LICENSE AGREEMENT (EULA) FOR FIVEPD MODIFICATION
+
+IMPORTANT – PLEASE READ CAREFULLY: This End User License Agreement ("EULA") is a legal agreement between you (either an individual or an entity) and the developers of the FivePD modification ("Developers") for the use of the FivePD modification on the FiveM platform. By installing, downloading, or using the FivePD modification, you agree to be bound by the terms of this EULA.
+
+1. LICENSE GRANT:
+
+1.1 Subject to the terms and conditions of this EULA, the Developers grant you a limited, non-exclusive, non-transferable, and revocable license to use the FivePD modification for personal or commercial use solely on the FiveM platform.
+
+1.2 You may not sublicense, sell, rent, lease, lend, redistribute, or otherwise transfer the FivePD modification or any rights granted under this EULA, except as expressly permitted by the Developers.
+
+2. INTELLECTUAL PROPERTY:
+
+2.1 The FivePD modification is the intellectual property of the Developers and is protected by copyright and other intellectual property laws. The Developers retain all rights not expressly granted to you under this EULA.
+
+2.2 You may not reverse engineer, decompile, disassemble, or attempt to discover the source code of the FivePD modification.
+
+3. FIVEM TERMS OF SERVICE:
+
+3.1 You acknowledge and agree that your use of the FivePD modification is subject to the terms and conditions of the FiveM Terms of Service. You must comply with all applicable provisions of the FiveM Terms of Service, which can be found at https://fivem.net/terms.
+
+4. DISCLAIMER OF WARRANTY:
+
+4.1 The FivePD modification is provided "as is" without any warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+5. LIMITATION OF LIABILITY:
+
+5.1 To the extent permitted by applicable law, in no event shall the Developers be liable for any direct, indirect, incidental, special, consequential, or exemplary damages arising out of the use or inability to use the FivePD modification, even if advised of the possibility of such damages.
+
+6. TERMINATION:
+
+6.1 This EULA is effective until terminated. Your rights under this EULA will terminate automatically without notice from the Developers if you fail to comply with any term(s) of this EULA.
+
+7. MISCELLANEOUS:
+
+7.1 This EULA constitutes the entire agreement between you and the Developers regarding the use of the FivePD modification and supersedes all prior or contemporaneous understandings or agreements, written or oral.
+
+7.2 This EULA may be updated by the Developers from time to time. It is your responsibility to check for updates and comply with the latest version.
+
+BY INSTALLING, DOWNLOADING, OR USING THE FIVEPD MODIFICATION, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTOOD THIS EULA AND AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL, DOWNLOAD, OR USE THE FIVEPD MODIFICATION.

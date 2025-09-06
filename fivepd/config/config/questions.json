@@ -1,0 +1,373 @@
+[
+	{
+		"title": "Generic Intro",
+		"questions": [
+			{
+				"question": "Good Morning.",
+				"answers": ["Morning officer.", "Good morning to you too.", "It will be once I get me some coffee.", "I have a feeling it's going to get worse.", "I was really hoping your lights weren't for me but here we are.", "Out of all mornings you pick THIS one!", "I'm  all out of doughnuts and coffee sorry.", "Uh-huh.", "No, no, no, I don't have time for this.", "I can't be late again I am going to be so screwed.", "How can I help you this lovely morning?", "Would be better if I wasn't being pulled over.", "*Glares at you*", "Howdy officer.", "I am in such a good mood even you can't ruin it."]
+			},
+			{
+				"question": "How are you doing today?",
+				"answers": ["Doing pretty good, thanks.", "I'm alright.", "I'm fine..", "Well I've been better.", "Eh.. yourself?"]
+			},
+			{
+				"question": "How are you doing this afternoon?",
+				"answers": ["My kid just got suspended from school, so not well.", "I'm alright.", "I really don't care for small talk.", "Just out for a quick drive to the traphouse.", "Going home sick from work, I might have that coronavirus haha.", "Just out for a quick lunch break from work.", "Not bad at all.", "On my way to cash my welfare check.", "Blessings my child, Kifflom in the name of Epsilon.", "I must say you look sharp in that uniform.", "*Sighs*"]
+			},
+			{
+				"question": "Good Evening.",
+				"answers": ["Just great!", "*Rolls eyes*", "Evening to you as well.", "I am just trying to get home to get some sleep.", "I knew I should have taken a side street.", "Look, I'll be more careful I promise."]
+			},
+			{
+				"question": "Just so you know, this is being visually and audio recorded.",
+				"answers": ["Is nothing private anymore now days? Ughh.", "*Shows no interest*", "Just great! I'm going to be on YouTube.", "My lawyer will appreciate being able to watch this.", "I always wanted to be on an episode of COPS.", "I always wanted to be on an episode of Live PD.", "You cops are awfully high tech now.. Geez.", "I mean that's fine but why do I need that warning?", "Atleast I know you won't be planting drugs on me.", "That's fine.", "Understood.", "Okay.", "Umm what for? Why do I need to be recorded?"]
+			}
+		]
+	},
+	{
+		"title": "Generic Questions",
+		"questions": [
+			{
+				"question": "Do you know why I stopped you?",
+				"answers": ["I have no idea..", "No clue.", "Let me guess, I broke one of the many laws in this city..", "I am sure you will make something up.", "Hell if I know.", "Surprise me because I am cluless.", "*Groans*", "No, but I cant wait to hear it.", "Oh.. what could it be now?", "It's me! Do you not recognize me I live down the block."]
+			},
+			{
+				"question": "Where are you heading to?",
+				"answers": ["I'm going home.", "I'm going to work.", "Going to my buddys house.", "It's my own business...", "Just about to get a sprunk at the LTD.", "On my way to Rockford Hills finest sex club.", "All out of weed, so about to go grab a few ounces.", "24/7 store to get a coffee.", "Just out for a walk.", "Meeting with my realator to look at a house.", "I am meeting some friends down at the Pier.", "On my way home because I forgot my wallet card.", "Rockford Hills for some shoplifting...I mean shopping.", "Grove Street to take care of some business.", "Going to go get something to eat.", "I'm craving some tacos from the taco truck, so probably there.", "On my way home because I forgot my phone.", "I was out getting some smokes.", "U-Tool is having a sale so I am headed there.", "About to have a family get-together.", "Just out to pick up my perscription.", "Headed to Paleto Bay, I rented an Air BnB on the coast.", "Sorry I don't just give out my plans."]
+			},
+			{
+				"question": "Where are you coming from?",
+				"answers": ["From my house.", "Just left work.", "My buddys house.", "It's my own business...", "The 24/7.", "Just a couple blocks down the road.", "Had a business meeting with some partners.", "I was hanging out with a couple of co-workers.", "The beach.", "Vangelico's jewlery to get something.", "Grove Street to hang out with the homies.", "Just finished up my shift at work.", "A date, if that is okay with you.", "Don't worry about it.", "I really don't see how that is relevant to the stop.", "I had to get some money from the ATM at the bank."]
+			}
+		]
+	},
+	{
+		"title": "Investigation Questions",
+		"questions": [
+			{
+				"question": "Can you tell me what is going on here?",
+				"answers": ["Umm.. I am just as surprised as you are officer.", "What are you talking about?", "Shit, I dunno.", "All I know is I'm minding my own business.", "Nothing.", "I haven't noticed anything out of the ordinary.", "What are you even doing here?"]
+			},
+			{	"question": "Do you know why I am here right now?",
+				"answers": ["Given you are a cop, I guess it's part of your job?", "Nope.", "I am really hoping that you tell me soon.", "To take me to jail?", "I imagine someone snitched?", "Pretty sure someone called you huh?", "Nah not really.", "Should I care?"]
+			},
+			{	"question": "What are you doing in this area?",
+				"answers": ["I only live a short walk from here.", "I was on my way to go meet a friend.", "I hang around here alot.", "A friend is supposed to meet me here later.", "Just trying to live my life.", "This area is peaceful to me.", "I heard someone screaming and I came running."]
+			},
+			{	"question": "Someone called and reported a crime.",
+				"answers": ["Really?", "So why are you talking to me?", "*takes a nervous breath*", "I mean.. I haven't seen anything suspicious.", "For real?", "Do you have a description so I could help?", "Ahhh I see and you think I did it?", "What kind of a crime?", "That doesn't seem like it is my business."]
+			},
+			{	"question": "Currently, you are a suspect in this investigation.",
+				"answers": ["I work way to hard for this shit.", "I'm a suspect just because I went out for a walk?", "I swear to you on my momma grave it aint me.", "I ain't out here doing nothing.", "Come on..seriously?", "You are joking right?", "What makes me a possible suspect?", "Well we need to clear this up right now.", "Well, that is shocking to hear.", "So are you detaining me or am I free to go?"]
+			}
+		]
+	},
+	{
+		"title": "Traffic Stop Questions",
+		"questions": [
+			{
+				"question": "License, registration, and proof of insurance please.",
+				"answers": ["Sure.", "Yeah yeah... One second.", "I think I got that for you.", "What is your probable cause?", "Is that really necessary?", "Sure, It is around here some place.", "Not sure I got all three.", "Here you go officer.", "I hope I have everything in the glove box.", "Can't remember if I put the updated documents in here.", "*Rolls eyes at you*", "Make sure I get that back okay?", "I guess it is within your legal rights to ask for my ID huh?", "One moment please, I will grab that.", "I am going to slowly reach for it, dont shoot okay?", "Are you single at the moment?", "Alright I think I got those.", "Is this LivePD? I really hope not.", "You are awfully demanding... I like that..", "Can't you just run my plate?", "You are awfully demanding... That's hot.", "Okay road pirate.", "What's the problem officer? I was just travelling", "I don't think I have any information for this vessel."]
+			},
+			{
+				"question": "Do you know why I pulled you over?",
+				"answers": ["I have no idea..", "No clue.", "Because you don't think I can afford this car?", "Because you're a road pirate?", "I was going a little faster than I should be huh?", "Did I forget to signal my turn or something?", "I am sure you will make something up.", "Hell if I know.", "I bet it's that damn headlight huh?", "It would seem something about my driving upset you.", "Surprise me because I am cluless.", "*Groans*", "No, but I cant wait to hear it.", "Oh.. what could it be now?", "It's me! Do you not recognize me I live down the block.", "Considering you didn't stop anyone but me..No.", "You're jealous of my ride?", "Nah and I dont really care.", "To let me know I am an oustanding driver?", "I gotta go with racial profiling.", "Using me as an excuse to take a break?", "Was my music too loud or something?", "I hope it is nothing bad.", "I looked like an easy target?", "Oh I sure would like to know."]
+			},
+			{
+				"question": "Where are you heading to?",
+				"answers": ["I'm going home.", "I'm going to work.", "Going to my buddys house.", "It's my own business...", "Just about to get a sprunk at the LTD.", "On my way to Rockford Hills finest sex club.", "All out of weed, so about to go grab a few ounces.", "24/7 store to get a coffee.", "Just out for a little joyride.", "Meeting with my realator to look at a house.", "I am meeting some friends down at the Pier.", "On my way home because I forgot my wallet card.", "Rockford Hills for some shoplifting...I mean shopping.", "Grove Street to take care of some business.", "Not sure what I want to eat so I'm just cruising around.", "I'm craving some tacos from the taco truck.", "On my way home because I forgot my phone.", "I was out getting some smokes.", "U-Tool is having a sale so I am headed there.", "About to have a family get-together.", "Just out to pick up my perscription.", "Headed to Paleto Bay, I rented an Air BnB on the coast.", "Sorry I don't just give out my plans."]
+			},
+			{
+				"question": "Where are you coming from?",
+				"answers": ["From my house.", "Just left work.", "My buddys house.", "It's my own business...", "The airport if you must know, you nosey cop.", "Just a couple blocks down the road.", "Had a business meeting with some partners.", "I was hanging out with a couple of co-workers.", "The beach.", "Vangelico's jewlery to get something.", "Grove Street to hang out with the homies.", "Just finished up my shift at work.", "A date, if that is okay with you.", "Don't worry about it.", "I really don't see how that is relevant to the stop.", "I had to get some money from the ATM at the bank."]
+			}
+		]
+	},
+	{
+		"title": "Traffic Stop (DUI Alcohol)",
+		"questions": [
+			{
+				"question": "I notice a strong odor of alcohol on your breath.",
+				"answers": ["And...What does that mean?", "Yeah And...?", "I am an adult and had an adult beverage, what's the issue.", "I mean I had a little.", "I drank more than I should have... I know.", "Who said you could smell my breath in the first place.", "Well what kind of booze have I been drinking then?", "I am still legal to drive though.. I think.", "That is impressive.", "So what?", "Whoops.", "Oh shit for real?", "Are you sure that it's alcohol?", "Guess again officer."]
+			},
+			{
+				"question": "Have you had anything to drink today?",
+				"answers": ["I think I may have over done it at the club.", "I have not.", "Once I get home I will have a few glasses of wine.", "None yet.", "I am not sure what day it is today to be honest.", "Nope.", "No that would be irresponsible to drive after drinking.", "All I drink is energy drinks.", "Enough to know I can still drive.", "Yeah I have.", "Maybe but I am not going to talk about it.", "You keep trying to build your case.. it's cute.", "No."]
+			},
+			{
+				"question": "Seriously when was your last drink?",
+				"answers": ["Like I said I have not drank anything.", "What makes you think I was drinking?.", "I usually have a morning drink.", "I haven't had a drink.", "I am always drinking.", "I know better than to answer that.", "My last drink was yesterday so I should be fine.", "Okay.. A few hours ago.", "I had a drink with my food not even an hour ago.", "I had a few shots with some friends a while ago.", "Like I said, I have not drank anything.", " I drank some wine with my date earlier.", "I am under the legal limit I assure you.", "Do you want to know what I ate too? Geeeez.", "It was earlier today."]
+			},
+			{
+				"question": "We recieved numerous calls that a vehicle matching this description seems to be driving impaired",
+				"answers": ["Well wasn't that thoughtful of them to call me in.", "Well aint that some shit.", "Seriously numerous calls? My driving is not that bad.", "Okay whatever.", "Aww I didn't know so many people cared about me.", "I knew someone witnessed me almost hit that mailbox haha.", "Well I can tell you that is false.", "Really?", "I knew I should have taken an Uber.", "I didnt think I was driving that bad.", "Trust me my sober driving is even worse haha.", "They don't have training, how do they know I'm impaired?", "Impaired is a funny word isn't it... I'm.. Paired haha.", "It is just all lies.", "Well what happens next?", "I see people driving impaired all the time, I don't call them in..", "I am sure this is an honest mistake."]
+			},
+			{
+				"question": "I observed you swerving all over the road.",
+				"answers": ["I'm sorry, I havent had much sleep.", "Just really sleepy, that is all.", "This road is bumpy as hell, wheel just jerks side to side.", "Yeah okay, show me the dashcam footage.", "I been driving many years and I can keep a vehicle straight.", "Uhhh okay?", "That is just how I drive.", "If I can blame this on AutoPilot I'd like to do so.", "Sorry it's my AutoPilot, still kinda glitchy.", "The alignment is screwed up on this vehicle.", "The lanes kept moving sir, I was trying to keep pace with it!", "Oh did you really?", "I wasn't all over the road.", "I used the two lanes as my own instead of one.", "I needed extra room because they were driving too close."]
+			},
+			{
+				"question": "Why are you slurring your words?",
+				"answers": ["Fine i wo-wo-wont talk to you then.", "That is just how I talk.", "I was testing to you to see if you noticed.", "Words and thinking is... Hard.", "I have a disability ... Yeah that's it..", "I am buzzed as hell.", "It's not that bad.", "I just forget what I am going to say sometimes.", "I am pretty sure my walking won't please you either.", "I am not.", "I can understand you perfectly fine.", "Why..Why..Am I- You slurring your words?", "I dunno what is with all the questions?"]
+			},
+			{
+				"question": "Do me a favor, turn off the engine and step out of the vehicle!",
+				"answers": ["Sure thing officer.", "No problem, I dont want any issues.", "As you wish.", "Is it too late to change my story?", "Are you serious right now?", "Sure.", "Ummm alright.", "I am so screwed.", "I can do that."]
+			}
+		]
+	},
+	{
+		"title": "Traffic Stop (DWI Narcotics)",
+		"questions": [
+			{
+				"question": "Did you use any drugs today?",
+				"answers": ["I plead the 5th.", "No,, but I have been around some people doing it though.", "I might of hit the bong this morning.", "Like I am just going to tell you.", "Get back to why you stopped me in the first place.", "No way.", "Drugs are bad, DARE taught me that.", "I'm just high on life.", "I'm just tired. I work 14 hours a day.", "I honestly can't remember.", "Do you think I look high or something?", "Yeah my eyes are always red. I think it's normal.", "Hell no.", "Not that I can remember.", "Yeah, you wish I would just tell you.", "I can say that I have not.", "I sure wouldn't be driving if I did.", "No, but I am buzzing still.", "I am not sure what you are trying to say.", "My recreational activities are my own business.", "No.", "Nope."]
+			},
+			{
+				"question": "Do you have any drugs in the vehicle?",
+				"answers": ["Honestly, I do not.", "Honest to God I don't.", "What is with all these questions?", "*Gets upset*", "Not that you can see, haha.", "If I did, it's none of your business.", "Do you interrogate everyone like this?", "I might, I am always lit", "No but my friends leave that shit in here all the time.", "No officer.", "I sure hope not.", "People are in and out of this thing everyday...so?", "I am not going to answer that.", "No I don't.", "*Nods head NO*", "No! is this some kind of a joke?", "I work 60 hrs a week I dont have time to be high.", "No comment.", "If anything a few roaches.", "Nope.", "No, I stay away from that stuff."]	
+			},
+			{
+				"question": "I notice the odor of narcotics coming from your vehicle.",
+				"answers": ["I mean... that is your opinion.","Hmmm I don't.", "You better be... I paid enough for it.", "I smoke the best bud in San Andreas!", "*gulps*", "You must be tripping, I dont have drugs.", "Oh yeah? Like what?", "I mean I did some earlier.", "I am not sure what you are getting at.", "Like hell you do, thats my momma's casserole.", "That is some cajun pizza on my breath.", "I did some earlier and it's on my clothes.", "I notice you smell really good what cologne is that?", "You can smell drugs over that nasty breath of yours?", "My homie was smoking up in here the other day.", "I tried some new product down in Davis, just a sample.", "No, I am pretty sure you don't.", "Oh shit for real?", "That smells good don't it?", "If you catch a contact I need to charge you some okay?", "My windows were rolled down like all day, shit.", "*Looks away*", "hoot I wish I had the money to get some."]	
+			},
+			{
+				"question": "We recieved numerous calls that a vehicle matching this description seems to be driving impaired.",
+				"answers": ["Well wasn't that thoughtful of them to call me in.", "I am so sick of people who can't mind their damn business.", "If you can't tell I am impaired how can they possibly tell?", "So tired of snitches.", "What else was your probable cause for this stop?", "I promise you I am not impaired.", "Nope not a chance.", "I mean I might be but you have to prove that.", "Looks like I need to start reporting everyone I see.", "I ran over the curb a few times a mile back.", "I hit the curb making a turn awhile ago so sue me.", "I almost rear-ended a car but I DIDNT because I'm not impaired.", "Have you ever went for a stoned joyride, shit is amazing?", "Sometimes I close my eyes to see how long I can go.", "Are you sure it wasn't another vehicle?", "I doubt that."]	
+			},
+			{
+				"question": "I observed you swerving all over the road.",
+				"answers": ["I'm sorry, I havent had much sleep.", "Just really sleepy, that is all.", "I think I may have over done it at the club.", "Yeah okay, show me the dashcam footage.", "I been driving many years and I can keep a vehicle straight.", "Uhhh okay?", "That is just how I drive.", "My windshield is dirty and I couldn't see.", "I was having some difficulty seeing the lanes.", "The alignment is screwed up on this vehicle.", "The lanes kept moving sir, I was trying to keep pace with it!", "Oh did you really?", "I wasn't all over the road.", "I moved a few times over the lines... COME ON!", "I needed extra room because they were driving too close.", "My damn arthirtist flared up in my wrist, sorry.", "Still getting used to this steering."]
+			},
+			{
+				"question": "I have a partner coming with a K9 unit.",
+				"answers": ["Let us hope that he gets in an accident, im joking.", "Wait... for real?", "How long does that usually take?", "If they can't make it, am I in the clear?", "Sounds like fun.", "Are you trying to scare me?", "We can have some Netflix N' Chill if we can hurry this up.", "Damn.", "This is not my lucky day is it?", "Bring it on!", "Is this standard with all your traffic stops?", "I have dogs at home so a k9 don't scare me.", "*sighs*", "Sure it's not like I am in a hurry or anything.", "*Takes a deep breath*"]	
+			},
+			{
+				"question": "I am going to run my K9 around the vehicle.",
+				"answers": ["A dog is going to tell you if I have drugs hidden?", "I can refuse this can't I?", "This is a violation of my property or something like that.", "Just because you smell a little something you have to do all this?", "Sniff away doggo.", "That is fine with me.", "As long as we can hurry this along.", "Oh shit, you have a K9 with you right now?", "I might make a phone call while you are doing that.", "*Sighs and rolls eyes*", "This is just bullshit.", "I know all about the air sniff and how it works okay.", "Ohhh, can I pet it?", "*laughs*", "I have nothing to hide so do your thing."]	
+			},
+			{
+				"question": "My partner is going to run the K9 around the vehicle.",
+				"answers": ["Ahhh shit I seen this on LivePD the other week.", "Oh yeah, trying to sniff the air around my vehicle right?", "Do I have to stay still or can I move around.", "This is new to me, a dog that is ia police officer?", "Seems they give a badge to anyone huh?", "What's next a drug snniffing cat? Hahaha.", "You should YouTube Feline Unit prank, its hilarious.", "Do whatever you gotta do cuz.", "*Seems scared*", "*Looks nervous*", "I am good they searched this thing at the border last week.", "Look, I don't want any problems.", "This should be fun, can't wait to see what happens."]	
+			},
+			{
+				"question": "The K9 officer did not alert of any narcotics.",
+				"answers": ["I told you! but no you want to waste my time.", "Damn K9 is better trained than you it seems.", "That is because I am clean, I don't have drugs.", "I knew it wouldn't", "*Shakes head*", "That dog just made you look like a rookie.", "That was really impressive though.", "Like he was going to smell it through my car?", "I would have been just as shocked if he would have alerted.", "With all the people I loan this to, I am surprised.", "Mhhhhmmmm.", "Just like I said.", "It has got to be hard for you to trust people huh?"]	
+			},
+			{
+				"question": "The K9 officer alerted of narcotics just now.",
+				"answers": ["Well how do I know that is not just a trick you taught it?", "Go figure, this is set up.", "So what does that mean?", "So what happens next?", "Sooooo now what?", "You are going to ask me to step out huh?", "No shit, that is an amazing dog can I get one?", "Who's a very very bad doggy?", "That little shit.", "If I had that dog I would never lose my stash again!", "Nope I am not buying that.", "I am just as surprised as you are."]	
+			},
+			{
+				"question": "Do me a favor, turn off the engine and step out of the vehicle!",
+				"answers": ["Sure thing officer.", "Okay.", "Sure.", "Shit...", "No problem, I don't want any problems.", "Really?", "Your wish is my command.", "This is going to suck.", "This is not even cool.", "You got it.", "Time for the fun to begin.", "Stupid, stupid, I am so stupid.", "Uh-oh."]	
+			}
+		]
+	},
+	{
+		"title": "Documentation Questions",
+		"questions": [
+			{
+				"question": "Do you have your drivers license or ID with you?",
+				"answers": ["Yes.", "No.", "No, I left it at home.", "Yeah yeah, one second.", "Is that really necessary?", "*Rolls eyes at you*", "Make sure I get that back okay?", "One moment please, I will grab that.", "Is this LivePD? I really hope not.", "Yep give me a minute."]
+			},
+			{
+				"question": "Do you have a weapons license on you?",
+				"answers": ["Yes.", "No.", "No, I left it at home.", "Yeah yeah, one second.", "Is that really necessary?", "*Rolls eyes at you*", "Make sure I get that back okay?", "One moment please, I will grab that."]
+			},
+			{
+				"question": "Do you have a hunting license on you?",
+				"answers": ["Yes.", "No.", "No, I left it at home.", "Yeah yeah, one second.", "Is that really necessary?", "*Rolls eyes at you*", "Make sure I get that back okay?", "One moment please, I will grab that."]
+			},
+			{
+				"question": "Do you have a fishing license on you?",
+				"answers": ["Yes.", "No.", "No, I left it at home.", "Yeah yeah, one second.", "Is that really necessary?", "*Rolls eyes at you*", "Make sure I get that back okay?", "One moment please, I will grab that."]
+			}
+		]
+	},
+	{
+		"title": "Missing Documentation Questions",
+		"questions": [
+			{
+				"question": "Did you know your driver license has expired?",
+				"answers": ["I must have forgotten to renew it. Sorry.", "How does it expire its a piece of plastic, do I recycle it?", "I'll get to the DMV when I can.", "I know it. But I like this license because I look young in the photo.", "Please just give me warning. I'll renew it right away.", "My record is three years without renewing it.", "Just expired so I can still drive on it right?", "I rarely drive so I don't renew it often."]
+			},
+			{
+				"question": "Your license is expired past 30 days.",
+				"answers": ["I just have a very hectic life.", "Well I am not sure how to renew it.", "I'll get to the DMV when I can.", "They stopped sending me notices so I thought it was okay.", "Do I really have to keep updating that?", "I been meaning to renew that.", "I figured I would save the money.", "I did not want to renew it until I got stopped."]
+			},
+			{
+				"question": "Why are you driving without a license?",
+				"answers": ["Uh oh..my roommate took the wrong wallet today.", "I tried to get the license but always failed the tests.", "They revoked my license a year ago.", "I just left it at home, I can give you my name.", "If Illegals can do it why can't I?", "The odds are very slim I would get stopped.", "Anyone will tell you I am a good driver.", "I lost it.", "My wallet was stolen from my gym locker.", "I am still waiting to get it replaced."]
+			},
+			{
+				"question": "Why are you driving with a suspended license?",
+				"answers": ["Sorry, I really need to drive to go to work.", "Are you sure? They say my license is no longer suspended.", "I swear, I didn't know that my license is suspended.", "Okay, that seems very unfortunate huh?", "I have no one to give me rides, I have to use my vehicle.", "I was told they would change it in the system to valid.", "I thought the judge reinstated it, that is what my lawyer said.", "I did not think I would get caught.", "It was an emergency I needed to visit the hospital.", "I did not know it was still suspended.", "I confess I messed up big time.", "Please have a heart and help me out."]
+			},
+			{
+				"question": "Why are you driving while your license is revoked?",
+				"answers": ["Sorry, I really need to drive to go to work.", "Are you sure? I thought my license was no longer revoked.", "I swear, I didn't know that my license was revoked.", "I really needed groceries for my kids today.", "I pretty much finished the classes so I thought I was good.", "I was not thinking I would get caught.", "I had to meet up with someone from Tinder.", "I just do what I want, I am sorry if you don't like that.", "What are the odds I would get stopped?"]
+			},
+			{
+				"question": "Just so you know, your registration has expired?",
+				"answers": ["I didn't get any mail from DMV about the renewal.", "Please just give me warning. I'll renew it right away.", "It was broke down for a while and it just got fixed.", "I still have insurance so what is the big deal?", "Registration is just a cash grab by the state.", "No, I did not.", "Oh, I am so sorry.", "I did not realize that.", "I tried this weekend but it was closed for the Holiday.", "Hmmm I thought it renewed.", "I had no idea?", "Yeah I will get that taken care of ASAP.", "It seems I recorded the wrong date when I had to renew it.", "Whoops, honest mistake."]
+			},
+			{
+				"question": "Are you aware that your registration is expired past 30 days?",
+				"answers": ["Things are difficult right now, job is too demanding.", "Damn has it really been that long, I could have sworn it was only a couple of days.", "I renewed it I specifically remember.", "Sorry, I will get on that right away.", "Has it been that long already?.", "I was not aware.", "Well why should I have to pay again?", "Yeah.. Yeah.. I know.", "I have like 3 vehicles I can't keep up with them.", "Yeah and...?"]
+			},
+			{
+				"question": "Why do you have no registration on this vehicle?",
+				"answers": ["Really? Had no clue, they never told me.", "I just bought this vehicle last week.", "Dammnit, I will get right on that tonight!", "I assumed the dealership handled all of that.", "I don't have $80 for a fucking sticker to put on my plate.", "The fees are insane.", "I share this with my brother and it was his turn to register it.", "I sold this vehicle but I still drive it from time to time.", "I never do until I get stopped.", "I am not a sucker who pays for a piece of paper."]
+			},
+			{
+				"question": "Did you know your insurance has expired?",
+				"answers": ["Are you sure? it should be auto-renewed.", "I don't have money to renew it.", "Please just give me warning. This is not a ticket I can afford.", "I lost my job and the funds weren't in the bank.", "My dad is supposed to take care of all that.", "Are you sure that information is correct?", "I sure do.", "Yes.", "No, that is not right.", "Maybe but that don't sound right.", "Ohh I thought it was for my other vehicle, I got them mixed up.", "I forgot the little card thingy was up to date."]
+			},
+			{
+				"question": "My MDT show you have no insurance on this vehicle?",
+				"answers": ["I didn't know, i guess it got cancelled.", "Dont need it, I am an excellent driver!", "Please just give me warning. I'll renew it right away.", "Was wondering how the hell you knew about that!", "I auto pay for that and I thought everything was good.", "That would be correct, I aint paying to drive my own vehicle.", "I only pay for 6 months out of the year to save money.", "Those rates are just too damn high..", "I can barely afford my rent.", "That does not sound right.", "I thought I updated it last night on the computer.", "I just bought it so I can't insure it until I have the title.", "I swear to you that I do."]
+			}
+		]
+	},
+	{
+		"title": "Generic Outro",
+		"questions": [
+			{
+				"question": "Sorry for the wait, here is your stuff back.",
+				"answers": ["Thank you.", "Thanks, I appreciate it", "So what is the verdict your honor?", "I had no choice but to wait.", "No trouble at all.", "That is fine.", "Why does it take so long, Im just curious.", "No other units showed up so Im happy about that.", "It's not like im in a big rush huh.", "It's all good officer.", "Not going to lie I was getting kind of worried.", "What the hell took you so long?", "Are you REALLY sorry though, I'm just joking with you.", "Are you single? I got a cousin that would find you adorable.", "It's no problem at all.", "My father is a retired cop so I appreciate all you do."]
+			},
+			{
+				"question": "I am just going to give you a warning okay?",
+				"answers": ["Appreciate it, I really do.", "You are a saint, you have no idea.", "That is what I was hoping for.", "Really?! Thank you so much!", "BOOM! that's what Im talking about.", "Hell Yeah.", "Fabulous! I love that we are seeing eye to eye.", "You are the best.", "That really means the world to me.", "I caught a break for once in my life.", "Bless your heart officer.", "That is the kinda service I expect from you cops.", "You didn't have to do that but I thank you.", "I could kiss you but I'm sure neither of us want that.", "Outstanding, I can get on with my day now.", "I couldn't ask for more.", "Great news... the justice system works huh?", "A warning is fine with me."]
+			},
+			{
+				"question": "I am letting you slide with a warning.",
+				"answers": ["I appreciate that so much!", "No words have ever been sweeter.", "Hey I can't argue with that.", "My dad served on the force 22 years and you remind me of him.", "I was not going to be happy if I got a ticket by the way.", "How can people not love you guys?", "I guess the quota is already filled huh?", "Hmm I may have to do it again then.", "Good way to start off my week.", "Thank you for not being a jerk cop.", "I thank you for your service, keep doing a good job.", "That is GREAT news.", "So happy not to be a victim of your quota.", "You are an honorable enforcer of the law, thank you.", "I love how you have been so kind with me.", "It's not like I couldn't afford it anyway."]
+			},
+			{
+				"question": "You'll be getting multiple tickets for __ alright?",
+				"answers": ["Is that really necessary?", "Do you really have to cite me for every little thing?", "I am going to have to work like 20 hours of O.T. for this.", "I have child support to pay and now these crazy fines.", "I am one check away from bankruptcy and you've ruined me.", "So you decided this is the best way to learn my lesson?", "Please I know you can cut me a break if you wanted.", "I suck at being an adult.. Im sorry.", "I need to do much better with my responsibilities huh?", "You are a devil from the pits of hell!", "Please I just lost my job last week.", "Can you cut me some slack?", "You guys are the worst money hungry cops I know.", "I made a few mistakes though.", "Lay it on me then.", "Fair enough.", "I really really cant afford that...", "Sure, why not throw the whole book at me."]
+			},
+			{
+				"question": "Your citation today will be for  ___  okay?",
+				"answers": ["*looks sad*", "I couldn't agree more.", "Amazing how you just spent so much of my money for me.", "I will most certainly see you in court.", "I have no choice I suppose?", "Whatever..", "It is what it is huh?", "I hate you pigs nothing personal though.", "*glares at you*", "That sucks but I understand.", "I dont believe I deserve this.", "I got warnings before so I guess this is fair.", "I guess you're not one of the cool cops huh?", "You just had to give me the ticket huh?", "*Sighs* Okay..", "Can a supervisor over turn this or something?", "If you say so.", "Do I need any other information?"]
+			},
+			{
+				"question": "I am feeling nice, You'll only be cited for ___ okay?",
+				"answers": ["*Gleefull smile* THANK YOU THANK YOU THANK YOU!", "Awesome.", "I would hate to see when you are feeling mad haha.", "So glad I got you on one of your nice days.", "I am glad you see me as a person and not a money tree.", "I see my patience paid off.", "Halleleujah praise Jesus!", "You are doing a wonderful job.", "You have saved me so much of a headache with this.", "I am not sure why you did it, but I am very happy.", "I knew all you guys werent bad at all.", "*Smiles* Thank you so much!", "How about no citation, hehe?", "That is very kind of you.", "Thank you for serving the people of the city.", "Thank you for treating me with respect today."]
+			},
+			{
+				"question": "You are to pay the fine or appear in court as indicated.",
+				"answers": ["I understand... Sorry again my mistake.", "Keep going.", "Who comes up with the prices of these fines?", "The state must think we all earn six figures.", "Any chance y'all have a payment plan?", "I am going to need an installment plan to pay this off..", "Thank you for the warning.", "Yes I am following along.", "I imagine I can pay this online somehow?", "I hope I dont have to miss work to pay this.", "I will pay the fine no problem.", "Looks like I might try to fight this.", "Uh-huh..", "I got that.", "*Nods in agreement*", "Is it too late for you to just give me a warning? Im joking.."]
+			},
+			{
+				"question": "Failure to do this will turn into a warrant.",
+				"answers": ["Really over an infraction? Guess I better take care of this fast.", "I know, I have seen it happen to my cousin when she didnt pay it.", "That is crazy.", "The last thing I want is a warrant.", "Understood.", "I understand and intend to cooperate fully, thank you for your service.", "I work near the court house... So I should be fine.", "Please just give me warning. This wont ever happen again, I swear.", "Had that happen to me back in 2010.", "Had that happen to my mom last year.", "I am taking care of that ASAP.", "A warrant for not paying a bogus ticket?", "Last thing I want is DOG the bounty hunter knocking on my door!", "Oh I will get it taken care of.", "I am not going to jail over a ticket.", "Thank you for the warning."]
+			},
+			{
+				"question": "Sign here to acknowledge you received it.",
+				"answers": ["No problem. *Signs*", "Yep *Signs*", "I usually don't sign anything with out my lawyer. *Signs ticket*", "Sure *Signs*", "I am ready to leave. *Signs*", "*Signs the ticket*", "*Signs quickly*", "It seems good to me. *Signs*", "I dont want any trouble. *Signs*", "No I will not. *Refuses*", "*Refuses to sign and argues", "*Rips up the ticket*"]
+			},
+			{
+				"question": "Refusal to sign the ticket is an arrestable offense.",
+				"answers": ["It is my right but I will waive it *signs*", "Screw that *signs*", "*Refuses to sign again*", "Oh its like that huh? *signs*", "I regret my decision *Signs*", "Can I go now, I'm not signing it.", "I am not willing to go to jail *Signs*", "*Signs it*", "Ughhhhh *Signs*", "Looks like you better cuff me.", "Are you kidding me right now? *Signs*", "I'm not guilty!", "Alright I'll take the ticket *Signs*", "Sorry for my outburst *Signs*"]
+			},
+			{
+				"question": "Any other questions for me at this time?",
+				"answers": ["Nope.", "Not that I can think of.", "That will be all.", "Can I go now?", "No officer.", "Nah.", "Not at this time.", "If you dont make the court date the ticket is dismissed right?", "How do you sleep at night?", "No, You seemed pretty thourough.", "No, You explained it well."]
+			},
+			{
+				"question": "Have a better rest of your day.",
+				"answers": ["It's off to a pretty bad start.", "Yep I will.", "I am going to try to.", "If I don't see you again, that will make it better.", "Can I go now?", "Enough with the chit chat please.", "You too officer.", "Well I hope that is possible.", "Not sure that is going to happen.", "Yep.", "Not sure how I am going to make this better."]
+			}
+		]
+	},
+	{
+		"title": "Traffic Stop Outro",
+		"questions": [
+			{
+				"question": "Sorry for the wait, here is your stuff back.",
+				"answers": ["Thank you.", "Thanks, I appreciate it", "So what is the verdict your honor?", "I had no choice but to wait.", "No trouble at all.", "That is fine.", "Why does it take so long, Im just curious.", "No other units showed up so Im happy about that.", "It's not like im in a big rush huh.", "It's all good officer.", "Not going to lie I was getting kind of worried.", "What the hell took you so long?", "Are you REALLY sorry though, I'm just joking with you.", "Are you single? I got a cousin that would find you adorable.", "It's no problem at all.", "My father is a retired cop so I appreciate all you do.", "I was beginning to think you died back there.", "Did you stop and take lunch while you were back there?", "What do you cops do back there that takes so long?", "Probably playing that LSPDFR on the computer huh?", "You probably have dial up internet in that car huh?", "I nearly used up all my data waiting for you to get done."]
+			},
+			{
+				"question": "I am just going to give you a warning okay?",
+				"answers": ["Appreciate it, I really do.", "You are a saint, you have no idea.", "That is what I was hoping for.", "Really?! Thank you so much!", "BOOM! that's what Im talking about.", "Hell Yeah.", "Fabulous! I love that we are seeing eye to eye.", "You are the best.", "That really means the world to me.", "I caught a break for once in my life.", "Bless your heart officer.", "That is the kinda service I expect from you cops.", "You didn't have to do that but I thank you.", "I could kiss you but I'm sure neither of us want that.", "Outstanding, I can get on with my day now.", "I couldn't ask for more.", "Great news... the justice system works huh?", "A warning is fine with me."]
+			},
+			{
+				"question": "I am letting you slide with a warning.",
+				"answers": ["I appreciate that so much!", "No words have ever been sweeter.", "Hey I can't argue with that.", "My dad served on the force 22 years and you remind me of him.", "I was not going to be happy if I got a ticket by the way.", "How can people not love you guys?", "I guess the quota is already filled huh?", "Hmm I may have to do it again then.", "Good way to start off my week.", "Thank you for not being a jerk cop.", "I thank you for your service, keep doing a good job.", "That is GREAT news.", "So happy not to be a victim of your quota.", "You are an honorable enforcer of the law, thank you.", "I love how you have been so kind with me.", "It's not like I couldn't afford it anyway."]
+			},
+			{
+				"question": "You'll be getting multiple tickets for __ alright?",
+				"answers": ["Is that really necessary?", "Do you really have to cite me for every little thing?", "I am going to have to work like 20 hours of O.T. for this.", "I have child support to pay and now these crazy fines.", "I am one check away from bankruptcy and you've ruined me.", "So you decided this is the best way to learn my lesson?", "Please I know you can cut me a break if you wanted.", "I suck at being an adult.. Im sorry.", "I need to do much better with my responsibilities huh?", "You are a devil from the pits of hell!", "Please I just lost my job last week.", "Can you cut me some slack?", "You guys are the worst money hungry cops I know.", "I made a few mistakes though.", "Lay it on me then.", "Fair enough.", "I really really cant afford that...", "Sure, why not throw the whole book at me."]
+			},
+			{
+				"question": "Your citation today will be for  ___  okay?",
+				"answers": ["*looks sad*", "I couldn't agree more.", "Amazing how you just spent so much of my money for me.", "I will most certainly see you in court.", "I have no choice I suppose?", "Whatever..", "It is what it is huh?", "I hate you pigs nothing personal though.", "*glares at you*", "That sucks but I understand.", "I dont believe I deserve this.", "I got warnings before so I guess this is fair.", "I guess you're not one of the cool cops huh?", "You just had to give me the ticket huh?", "*Sighs* Okay..", "Can a supervisor over turn this or something?", "If you say so.", "Do I need any other information?", "Well their goes my insurance rates.", "Let's get this show on the road okay?", "Hope your probable cause was solid, my lawyer is good."]
+			},
+			{
+				"question": "I am feeling nice, You'll only be cited for ___ okay?",
+				"answers": ["*Gleefull smile* THANK YOU THANK YOU THANK YOU!", "Awesome.", "I would hate to see when you are feeling mad haha.", "So glad I got you on one of your nice days.", "I am glad you see me as a person and not a money tree.", "I see my patience paid off.", "Halleleujah praise Jesus!", "You are doing a wonderful job.", "You have saved me so much of a headache with this.", "I am not sure why you did it, but I am very happy.", "I knew all you guys werent bad at all.", "*Smiles* Thank you so much!", "How about no citation, hehe?", "That is very kind of you.", "Thank you for serving the people of the city.", "Thank you for treating me with respect today.", "I was so foolish and I am sorry for how I drove.", "Thank you so much! I will drive safer, I promise!"]
+			},
+			{
+				"question": "You were going 20 over, but I am citing you for 10.",
+				"answers": ["Wow I am so happy about that.", "Thank you for cutting me a break.", "I didnt know you could be that kind.", "I am lost for words, thank you.", "My parents are still going to kill me.", "You just saved me so much money! Thank you!", "That was so stupid and I won't do it again.", "You are the best.", "Understood.", "I understand.", "I didn't know you guys could legally do that.", "I will trust your judgement on it."]
+			},
+			{
+				"question": "You were going 10 over, but I am citing you for 5.",
+				"answers": ["Wow I am so happy about that.", "Thank you for cutting me a break.", "I didnt know you could be that kind.", "I am lost for words, thank you.", "Appreciate that officer.", "Still a pricey ticket but I deserve it.", "That was so stupid and I won't do it again.", "You are the best.", "I will remember to watch my speed more carefully.", "First time a cop has saved me money.", "I will not be speeding again.", "I will take that gladly.", "Understood.", "I understand.", "I didn't know you guys could legally do that.", "I will trust your judgement on it."]
+			},
+			{
+				"question": "You need to watch your speed, no break today. Sorry.",
+				"answers": ["Well I guess that means I can't eat for a week!", "Gee thanks for nothing officer", "You are right and I was wrong.", "I could have hurt myself or someone else huh?", "Sure, whatever.", "I still appreciate your service.", "You are just doing your job.", "Hopefully this will make me learn my lesson.", "I guess I got the jerk today..", "Better than going to jail I guess, I'll take it.", "*mutters* Thats fucked up man.."]
+			},
+			{
+				"question": "You are to pay the fine or appear in court as indicated.",
+				"answers": ["I understand... Sorry again my mistake.", "Keep going.", "Who comes up with the prices of these fines?", "The state must think we all earn six figures.", "Any chance y'all have a payment plan?", "I am going to need an installment plan to pay this off..", "Thank you for the warning.", "Yes I am following along.", "I imagine I can pay this online somehow?", "I hope I dont have to miss work to pay this.", "I will pay the fine no problem.", "Looks like I might try to fight this.", "Uh-huh..", "I got that.", "*Nods in agreement*", "Is it too late for you to just give me a warning? Im joking.."]
+			},
+			{
+				"question": "Failure to do this will turn into a warrant.",
+				"answers": ["Really over an infraction? Guess I better take care of this fast.", "I know, I have seen it happen to my cousin when she didnt pay it.", "That is crazy.", "The last thing I want is a warrant.", "Understood.", "I understand and intend to cooperate fully, thank you for your service.", "I work near the court house... So I should be fine.", "Please just give me warning. This wont ever happen again, I swear.", "Had that happen to me back in 2010.", "Had that happen to my mom last year.", "I am taking care of that ASAP.", "A warrant for not paying a bogus ticket?", "Last thing I want is DOG the bounty hunter knocking on my door!", "Oh I will get it taken care of.", "I am not going to jail over a ticket.", "Thank you for the warning.", "My brother forgot and got arrested over a turn signal ticket."]
+			},
+			{
+				"question": "Sign here to acknowledge you received it.",
+				"answers": ["No problem. *Signs*", "Yep *Signs*", "I usually don't sign anything with out my lawyer. *Signs ticket*", "Sure *Signs*", "I am ready to leave. *Signs*", "*Signs the ticket*", "*Signs quickly*", "It seems good to me. *Signs*", "I dont want any trouble. *Signs*", "No I will not. *Refuses*", "*Refuses to sign and argues", "*Rips up the ticket*"]
+			},
+			{
+				"question": "Refusal to sign the ticket is an arrestable offense.",
+				"answers": ["It is my right but I will waive it *signs*", "Screw that *signs*", "*Refuses to sign again*", "Oh its like that huh? *signs*", "I regret my decision *Signs*", "Can I go now, I'm not signing it.", "I am not willing to go to jail *Signs*", "*Signs it*", "Ughhhhh *Signs*", "Looks like you better cuff me.", "Are you kidding me right now? *Signs*", "I'm not guilty!", "Alright I'll take the ticket *Signs*", "Sorry for my outburst *Signs*"]
+			},
+			{
+				"question": "Any other questions for me at this time?",
+				"answers": ["Nope.", "Not that I can think of.", "That will be all.", "Can I go now?", "No officer.", "Nah.", "Not at this time.", "If you dont make the court date the ticket is dismissed right?", "How do you sleep at night?", "No, You seemed pretty thourough.", "No, You explained it well.", "*Buckles seat belt* No officer."]
+			},
+			{
+				"question": "Have a better rest of your day.",
+				"answers": ["It's off to a pretty bad start.", "Yep I will.", "I am going to try to.", "If I don't see you again, that will make it better.", "Can I go now?", "Enough with the chit chat please.", "You too officer.", "Well I hope that is possible.", "Not sure that is going to happen.", "Yep.", "Not sure how I am going to make this better.", "When do I take off?", "Do I wait for you to pull off or what?"]
+			},
+			{
+				"question": "You're free to go when I get back to my vehicle.",
+				"answers": ["Sounds good.", "Be safe out there.", "*Nods Yes*", "*Waves*", "Yep.", "I can do that.", "Keep up the good work.", "I hope you make it home safely today.", "You got it.", "Stay safe out there.", "Eat a doughnut for me later.", "I'm just happy to not be in your backseat haha.", "Drive safely.", "Great.", "Your lights are so bright I can't see behind me.", "Can you honk to let me know when it is safe?", "*Smiles*", "I got it."]
+			},
+			{
+				"question": "Be Careful merging back into traffic.",
+				"answers": ["*Waves*", "I do not want to wreck my car.", "Sure.", "Understood.", "You know it.", "I can do that.", "Keep up the good work.", "Yes officer.", "This makes me nervous.", "I'll be careful.", "Thank you again."]
+			}
+		]
+	},
+	{
+		"title": "Arrest",
+		"questions": [
+			{
+				"question": "At this time you are being placed under arrest",
+				"answers": ["I'm going to sue you", "Screw you", "You can't do this", "Ight", "I'll be out soon", "I plead the 5th", "*Smirks*", "*Yells* Oh hell no wtf man", "I'll remember this"]
+			},
+			{
+				"question": "You have the right to remain silent anything you say or do can and will be used against you in court of law, you have the right to a lawyer if you can't afford one one will be provided, do you understand these rights?",
+				"answers": ["Yes i understand", "Can you reread them please", "Go F**k yourself", "Sure"]
+			}
+		]
+	}
+]

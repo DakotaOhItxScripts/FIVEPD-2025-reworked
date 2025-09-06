@@ -1,0 +1,309 @@
+{
+	"violations": {
+		"Section 1 - Speeding": [
+			"5-9 MPH Above ($100)",
+			"10-14 MPH Above ($150)",
+			"15-19 MPH Above (200)",
+			"20-24 MPH Above ($225)",
+			"25-29 MPH Above ($250)",
+			"30-34 MPH Above ($300)",
+			"35-39 MPH Above ($350)",
+			"40-44 MPH Above ($425)",
+			"45-49 MPH Above ($500)",
+			"50-54 MPH Above ($600)",
+			"55-59 MPH Above ($715)",
+			"60-64 MPH Above ($825)",
+			"65-69 MPH Above ($1000)",
+			"70-74 MPH Above ($1,150 | Jail)",
+			"75-79 MPH Above ($1,350 | Jail)",
+			"80-89 MPH Above ($1,500 | Jail)",
+			"90-99 MPH Above ($2,000 | Jail Felony)",
+			"100+ MPH Above ($2,500 | Jail Felony)"
+		],
+		"Section 2 - Vehicular Offences": [
+			"​Title 1 - Responsibility at a Red Light ($140)",
+			"​Title 2 - Stop Sign ($130)",
+			"​Title 3 - Failure to Use Proper Signals ($60)",
+			"​Title 4 - Underglow (Red or Blue) ($1,000)",
+			"​Title 5 - Underglow ($250)",
+			"Title 6 - Illegal Modification ($2500)",
+			"Title 7 - No Parking Zone ($250)",
+			"Title 8 - Parking to Close to a Fire Hydrant ($425)",
+			"​Title 9 - Illegal U-Turn ($250)",
+			"Title 10 - Rolling Stop at Stop Sign ($40)",
+			"​Title 11 - Improper Lane Turn ($300)",
+			"Title 12 - Texting and Driving (​$500)",
+			"Title 13 - Street Racing ($5,000)",
+			"​Title 14 - Curb Riding (​$500)",
+			"​Title 15 - Driving on the Emergency Shoulder ($200)",
+			"​Title 16 - Non-Road-Legal Vehicle ($500)",
+			"​Title 17 - Unrestrained Items ($200)",
+			"​Title 18 - Seatbelt ($500)",
+			"​Title 19 - Burnout ($500)",
+			"​Title 20 - Driving whilst distracted ($500)",
+			"Title 21 - Driving too slowly ($500)",
+			"Title 22 - Tailgating ($500)",
+			"Title 23 - Repeated unnecessarily Braking ($500)",
+			"​Title 24 - Maintaining lanes ($500)",
+			"Title 25 - UnderTaking ($500)",
+			"​Title 26 - Indicating ($500)",
+			"Title 27 - Texting and Driving (​$500)",
+			"Title 28 - Driving Unfit ($500)",
+			"​Title 29 - Hand-Held device (​$500)",
+			"​Title 30 - smoking with a child in vehicle ($500)"
+		],
+		"Section 3 - Reckless Driving": [
+			"Title 1 - DUI (​$1,500)",
+			"Title 2 - Trailing to Close |CIV| ($230)",
+			"​Title 3 - Failure to Maintain Lanes (​$1,000)",
+			"​Title 4 - On-Coming Lanes ($2,500)",
+			"Title 5 - Reckless Driving (​$1,000)",
+			"Title 6 - Damaged or No Headlights (​$250)"
+		],
+		"Section 4 - Emergency Vehicle": [
+			"Title 1 - Failure to Move for a Emergency Vehicle ($200)",
+			"​​Title 2 - Failure to Stay Back for a Emergency Vehicle (​$175)",
+			"​Title 3 - Impersonation ($1,250)"
+		],
+		"Section 5 - Impeding": [
+			"​Title 1 - Impeding a Officer (​$1,000)",
+			"Title 2 - Impeding Traffic (​​$1,000)",
+			"​​Title 3 - Jaywalking (​$100-$250)",
+			"​​Title 4 - Fake 911 Call (​$2,500)"
+		],
+		"Section 6 - Evasion": [
+			"​Title 1 - Evading a Police Officer (Arrestable) (​$4,500)",
+			"Title 2 - Resisting Arrest (Arrestable) (​​$4,000)"
+		],
+		"Section 7 - Murder": [
+			"​Title 1 - Manslaughter (x1) (Arrestable) (​$10,500)",
+			"Title 2 - Manslaughter (x2+) (Arrestable) (​​$12,000)",
+			"​​Title 3 - Murder of a Peace Officer (Arrestable) (​$15000)",
+			"​​Title 4 - School Shooting (​$2,500)"
+		],
+		"Section 8 - Kidnapping": [
+			"​Title 1 - Kidnapping (Arrestable) (​$10,000)",
+			"Title 2 - Taking a Hostage (​​$10,000)"
+		],
+		"Section 9 - Stealing / Robbery": [
+			"Title 1 - GTA (​$20,000)",
+			"Title 2 - Theft ($3,000)",
+			"​Title 3 - Armed Robbery (​$10,500)",
+			"​Title 4 - Breaking and Entering ($8,500)"
+		],
+		"Section 10 - Stealing / Robbery": [
+			"Title 1 - Harassment (​$750)",
+			"Title 2 - Assault ($1,250)",
+			"​Title 3 - Littering (​$250)"
+		],
+		"Section 11 - Vandalism": [
+			"Title 1 - Vandalism (Normal) (​$20,000)",
+			"Title 2 - Vandalism (Government) ($3,000)"
+		],
+		"Section 12 - Concealing": [
+			"Title 1 - Concealing a Firearm (Illegal) (​$2,500)",
+			"Title 2 - Transporting a Firearm ($1,750)",
+			"​Title 3 - Brandishing a Firearm (​$3,000)",
+			"​Title 4 - Concealing an Explosive ($2,500)",
+			"Title 5 - Concealing a Melee (​$1,000)",
+			"Title 6 - Transporting a Melee (​$1,250)",
+			"Title 7 - Brandishing a Melee (​$1,750)",
+			"Title 8 - Concealing Drugs (Any Type) ($1,500)"
+		],
+		"Section 13 - Documentation": [
+			"Title 1 - Driving without Registration (​$500)",
+			"Title 2 - Driving without License ($500)",
+			"​Title 3 - Driving without Insurance (​$500)",
+			"​Title 4 - Expired License ($500)",
+			"Title 5 - Expired Registration (​$500)",
+			"Title 6 - Expired Insurance (​$500)",
+			"Title 7 - Using a Fake Name / Identification (​$500)",
+			"Title 8 - Concealing Drugs (Any Type) ($2,500)"
+		],
+		"Section 14 - Driving Under-Aged": [
+			"Title 1 - Driving Under-Aged (​$1,000)"
+		],
+		"Section 15 - Disturbing the Peace": [
+			"Title 1 - Noise Complaint (​$100)"
+		],
+		"Section 16 - Parking": [
+			"Title 1 - Parking near a fire hydrant (​$500)",
+			"Title 2 - Illegal parking ($100)",
+			"​Title 3 - Parked in a non-parking zone (​$100)",
+			"​Title 4 - Blocking a Driveway ($100)",
+			"Title 5 - Parked on Private Property (​$100)",
+			"Title 6 - No permit displayed (​$100)",
+			"Title 7 - Parked in tow zone (​$100)",
+			"Title 8 - Double Parked ($100)",
+			"Title 9 - Parked over the lines ($100)",
+			"Title 10 - Unauthorised parking ($100)",
+			"Title 11 - Obstructing a Walkway ($100)",
+			"Title 12 - Parked on an emergency lane ($200)"
+		]
+	},
+	"charges": {
+		"(1) Crimes against a person": [
+			"(1)1. - (F) First Degree Murder",
+			"​(1)2. - (F) Second Degree Murder",
+			"​(1)3. - (F) Manslaughter",
+			"​(1)4. - (F) Attempted Murder",
+			"​(1)5. - (F) Criminal Threats",
+			"​(1)6. - (F) Harrassment Via Online",
+			"​(1)7. - (M) Assualt",
+			"​(1)8. - (M) Assualt + Battery",
+			"​(1)9. - (F) Serious Bodily Harm",
+			"​(1)10a. - (F) Assualt With A Deadly Weapon",
+			"​(1)10b - (M)Assualt With A Deadly Weapon",
+			"​(1)11a - (F) Stalking",
+			"​(1)11b - (M) Stalking",
+			"​(1)12 - (F) Kidnapping/False Imprisonment",
+			"​(1)13 - (F) Torture",
+			"​(1)14 - (F) Human Trafficking"
+		],
+		"(2) Crimes against a Property": [
+			"​(2)1 - (M) Loitering",
+			"(2)2a - (F) Trespassing",
+			"(2)2b - (M) Trespassing",
+			"​(2)3 - (F) Federal Trespassing",
+			"(2)4 - (M) Vandalism",
+			"​(2)5 - (M) Petty Theft",
+			"(2)6 - (M) Stealing",
+			"(2)7a - (F) GTA",
+			"​(2)7b - (M) GTA",
+			"(2)8a - (F) Burglary",
+			"​(2)8b - (M) Burglary",
+			"(2)9 - (M) Possession of Burglary Tools",
+			"(2)10a - (F) Robbery",
+			"​(2)10b - (M) Robbery",
+			"(2)11 - (F) Bribery",
+			"​(2)12 - (F) Extortion"
+		],
+		"(3) Kidnapping": [
+			"(3)1 - (F) Lewd Conduct in Public",
+			"​(3)2 - (F) Indecent Exposure",
+			"(3)3 - (F) Prostitution",
+			"​(3)4 - (F) Pandering / Pimping",
+			"(3)5 - (F) Sexual Battery",
+			"​(3)6 - (F) Rape"
+		],
+		"(4) Crimes Against Public Justice": [
+			"(4)1. (M) False Information to a Government Employee",
+			"(4)2. (M) Filing a False Police Report",
+			"(4)3. (M) Failure to Identify to a Peace Officer",
+			"(4)4. (M) Disguise from Law (mask)",
+			"(4)5. (M) Impersonation Of a Government Employee",
+			"(4)6. (F) Government Bribery",
+			"(4)7. (M) Resisting a Peace Officer",
+			"(4)8. (F) Escape from Custody",
+			"(4)9. (F) Assisting Escape",
+			"(4)10. (M) Misuse of a Government Hotline",
+			"(4)11. (M) Tampering with Evidence",
+			"(4)12. (F) Introduction of Contraband into a Restricted Facility",
+			"(4)12. (F) False Arrest",
+			"(4)13. (F) Violation of a Judical Order",
+			"(4)14. (M) Failure to Appear / Pay for a Citation",
+			"(4)15. (M) Failure to Sign Citation",
+			"(4)16. (M) Obstruction of Justice"
+		],
+		"(5) Crimes against Public Peace": [
+			"(5)1. (M) Disturbing the peace",
+			"(5)2. (M) Unlawful Assembly",
+			"(5)3. (M) Inciting a Riot",
+			"(5)4. (F) Participation in a Riot"
+		],
+		"(6) Crimes against States Dependants": [
+			"(6)1. (F) Animal Abuse / Cruelty",
+			"(6)2. (F) Child Neglect",
+			"(6)3. (F) Elder Abuse",
+			"(6)4. (F) Failure to Control a Dangerous Anima"
+		],
+		"(7) Crimes against Drugs/ illegal substances": [
+			"(7)1. (M)Possession of Marijuana",
+			"(7)2. (F)Possession of Heroin",
+			"(7)3. (F)Possession of Cocaine",
+			"(7)4. (F)Possession of Methamphetamine",
+			"(7)5. (F)Possession of Controlled Substance",
+			"(7)6. (F)Poss/of Substance W/Intent to Sell",
+			"(7)7. (M)Possession of Drug Paraphernalia",
+			"(7)8. (F)Possession of Prescription Pills",
+			"(7)9. (F) Possession of an Illegal Controlled Substance",
+			"(7)10. (F) Possession of a Controlled Substance with Intent to Sell",
+			"(7)11. (F) Maintaining a Place for the Purpose of Distribution",
+			"(7)12. (F) Manufacture of a Controlled Substance",
+			"(7)13. (F) Sale of a Controlled Substance",
+			"(7)14. (M) Under the Influence of a Controlled Substance",
+			"(7)15. (M) Public Intoxication",
+			"(7)16. (M) Furnishing Alcohol to a Minor",
+			"(7)17. (M) Possession of Marijuana in Excessive Amounts",
+			"(7)18a. (M) Underage Possession of Marijuana",
+			"(7)18b. (M) Underage Possession of Marijuana in Excessive Amounts",
+			"(7)19. (M) Marijuana Possession with Intent to Sell",
+			"(7)20. (M) Sale or Transportation of Marijuana",
+			"(7)21. (M) Marijuana Use in Public",
+			"(7)22. (M) Drinking in Public"
+		],
+		"(8) Vehicular Offences": [
+			"(8)1. (M) Driving with a Suspended or Revoked License",
+			"(8)2. (M) Implied Consent",
+			"(8)3. (M)Accident Reporting Requirements - Property Damage",
+			"(8)4. (F) Accident Reporting Requirements - Injury or Death",
+			"(8)5. (M) Speed Limits 100",
+			"(8)6. (M) Reckless Driving",
+			"(8)7. (M) Motor Vehicle Contest",
+			"(8)8. (M) Throwing Objects",
+			"(8)9. (M) Driving Under the Influence",
+			"(8)9. (M) Heavy Machinery - illegal",
+			"(8)9. (M) Evading A Peace Officer",
+			"(8)10. (F) Felony Evading A Peace Officer"
+		],
+		"(9) Control of Deadly Weapons or Equipment": [
+			"(9)1. (M) Firearm Certificate and Permit Violation",
+			"(9)2. (M) Firearm Age Restrictions",
+			"(9)3. (M) Firearm Carry Violation",
+			"(9)4. (F) Possession of an Illegal Weapon",
+			"(9)5. (M) Brandishing a Firearm",
+			"(9)6. (M) Weapon Discharge Violation",
+			"(9)7. (M) Drive-By Shooting",
+			"(9)8. (M) Illegal Sale of a Firearm",
+			"(9)9. (F) Transportation of Firearms",
+			"(9)10. (F) Possession of an Illegal Firearm",
+			"(9)11. (F) Possession of a stolen Firearm"
+		],
+		"(10) Operation of Commercial Motor Vehicles": [
+			"(10)1. (M) Commercial Drivers Licenses"
+		],
+		"(11) Operation of Aircraft": [
+			"(11)1. (M) Pilot Licenses",
+			"(11)2. (M) Additional Certificate Requirements",
+			"(11)3. (M) Duty Day Limits",
+			"(11)4. (M) Required Equipment",
+			"(11)5. (M) Restricted Flight Areas",
+			"(11)6. (F) Flying Under the Influence"
+		],
+		"(12) Operation of Marine Vessels": [
+			"(12)1. (M) Operating a Marine Vessel without a Maritime License"
+		],
+		"(13) Fish and Game": [
+			"(13)1. (M) Prohibition on Hunting",
+			"(13)2. (M) Daily Limits and Possession Limits - Excessive Violations",
+			"(13)3. (M) Hunting Methods",
+			"(13)4. (M) Hunting under the influence",
+			"(13)5. (M) Poaching",
+			"(13)6. (M) Use of Animals",
+			"(13)7. (F) Conservation of Natural Resources"
+		],
+		"(14) Operation of the Fire Code": [
+			"(14)1. (F) Negligent Arson",
+			"(14)2. (F) Arson"
+		],
+		"(15) Violations against the State": [
+			"(15)1. (F) Treason",
+			"(15)2. (M) Racketeering",
+			"(15)3. (F) Laundering of Money Instruments",
+			"(15)4. (M) WireTapping Violation",
+			"(15)5. (M) Interference with a Transit System",
+			"(15)6. (F) Tax Evasion",
+			"(15)7. (F) Intentional Damage to State Infrastructure",
+		]
+	}
+}

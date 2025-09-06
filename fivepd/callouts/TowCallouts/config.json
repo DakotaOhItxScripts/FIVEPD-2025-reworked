@@ -1,0 +1,32 @@
+{
+  "AbandonedVehicle": {
+    "IgnoreDistance": false,
+    "MinTimeout": 0,
+    "Probability": 2,
+    "Departments": null
+  },
+  "BrokeDown": {
+    "IgnoreDistance": false,
+    "MinTimeout": 0,
+    "Probability": 2,
+    "Departments": null
+  },
+  "BrokeDownRV": {
+    "IgnoreDistance": false,
+    "MinTimeout": 0,
+    "Probability": 2,
+    "Departments": null
+  },
+  "impound": {
+    "IgnoreDistance": false,
+    "MinTimeout": 0,
+    "Probability": 2,
+    "Departments": null
+  },
+  "repo": {
+    "IgnoreDistance": false,
+    "MinTimeout": 0,
+    "Probability": 2,
+    "Departments": null
+  }
+}

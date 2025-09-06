@@ -1,0 +1,42 @@
+{
+    "DutyMenu": {
+      "dutyToggle": {
+        "isEnabled": true,
+        "isAdminOnly": false
+      },
+      "keepEngineRunning": {
+        "isEnabled": true,
+        "isAdminOnly": false
+      },
+      "toggleCruiseControl": {
+        "isEnabled": true,
+        "isAdminOnly": false
+      },
+      "spawnVehicle": {
+        "isEnabled": true,
+        "isAdminOnly": false
+      },
+      "getLoadout": {
+        "isEnabled": false,
+        "isAdminOnly": false
+      },
+      "refillHealth": {
+        "isEnabled": false,
+        "isAdminOnly": false
+      },
+      "teleport": {
+        "isEnabled": false,
+        "isAdminOnly": false
+      }
+    },
+    "SceneMenu": {
+      "speedzonePlacement": {
+        "isEnabled": true,
+        "isAdminOnly": false
+      },
+      "objectPlacement": {
+        "isEnabled": true,
+        "isAdminOnly": false
+      }
+    }
+}

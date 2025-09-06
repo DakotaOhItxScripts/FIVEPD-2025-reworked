@@ -1,0 +1,20 @@
+{
+  "Hostage":{
+  "IgnoreDistance": false,
+  "MinTimeout": 0,
+  "Probability": 2,
+  "Departments": null
+},
+"Theft":{
+  "IgnoreDistance": false,
+  "MinTimeout": 0,
+  "Probability": 2,
+  "Departments": null
+},
+"UpsetCustomer":{
+  "IgnoreDistance": false,
+  "MinTimeout": 0,
+  "Probability": 2,
+  "Departments": null
+}
+}

@@ -1,0 +1,281 @@
+{
+	"police": [
+	    {
+			"name": "~w~[~r~LAPD~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2000 LAPD Tahoe",
+			"vehicle": "00pdtahoe",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2008 LAPD CVPI",
+			"vehicle": "08pdcvpi",
+			"isAvailableForEveryone": false,
+			"useRanks": true,
+			"availableForRanks": ["Officer I", "Officer II"],
+			"availableForDepartments": []
+		},
+		{
+			"name": "2011 LAPD CVPI",
+			"vehicle": "11pdcvpi",
+			"isAvailableForEveryone": false,
+			"useRanks": false,
+			"availableForRanks": ["Detective I", "Detective II"],
+			"availableForDepartments": [18]
+		},
+		{
+			"name": "2011 LAPD CVPI ST",
+			"vehicle": "11pdcvpis",
+			"isAvailableForEveryone": false,
+			"useRanks": false,
+			"availableForDepartments": [19]
+		},
+		{
+			"name": "2014 LAPD Charger",
+			"vehicle": "14pdcharger",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2015 LAPD FPIS",
+			"vehicle": "15pdfpis",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2015 LAPD FPIS ST",
+			"vehicle": "15pdfpiss",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2015 LAPD FPIU",
+			"vehicle": "15pdfpiu",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2015 LAPD FPIU ST",
+			"vehicle": "15pdfpius",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2016 LAPD FPIU",
+			"vehicle": "16pdfpiu",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2016 LAPD FPIU ST",
+			"vehicle": "16pdfpius",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2020 LAPD FPIU",
+			"vehicle": "20pdfpiu",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2020 LAPD FPIU ST",
+			"vehicle": "20pdfpius",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "~w~[~r~LASD~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2013 LASD FPIU",
+			"vehicle": "lasd12",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "LASD FPIU Valor ALPR",
+			"vehicle": "lasd13",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "LASD FPIU Valor",
+			"vehicle": "lasd14",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 LASD Tahoe",
+			"vehicle": "lasd11",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "~w~[~r~BCSO~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "~w~[~r~CHP~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "~w~[~r~DPS~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2013 DPS FPIU [I think]",
+			"vehicle": "DPS8",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2014 DPS Charger",
+			"vehicle": "DPS6",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2016 DPS FPIU",
+			"vehicle": "DPS3",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Charger",
+			"vehicle": "DPS1",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Tahoe [I think]",
+			"vehicle": "DPS5",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "DPS Ford F150",
+			"vehicle": "DPS2",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "Change4",
+			"vehicle": "DPS4",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2020 DPS Expedition",
+			"vehicle": "pd20exped",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "~w~[~r~PBPD~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2011 CVPI ST",
+			"vehicle": "pb5",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2014 Charger",
+			"vehicle": "pb1",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2014 Charger ST",
+			"vehicle": "pb3",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Charger ST",
+			"vehicle": "pb2",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Tahoe",
+			"vehicle": "pb4",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "~w~[~r~FBI~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2011 Ford Crown Vic",
+			"vehicle": "cvpi",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2014 Dodge Charger",
+			"vehicle": "um14charger",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2015 Subaru WRX STI",
+			"vehicle": "umwrx",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2016 Chevy Impala",
+			"vehicle": "umimpala",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Dodge Charger",
+			"vehicle": "18charger2",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2020 Ford Explorer",
+			"vehicle": "um20fpiu",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2021 Cadillac Escalade",
+			"vehicle": "esc21",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2021 Chevy Tahoe",
+			"vehicle": "um21tahoe",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2021 Toyota RAV4",
+			"vehicle": "umrav4",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2021 Ford F150 Limited",
+			"vehicle": "umf150",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "~w~[~r~MP~w~]",
+			"vehicle": "police",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Dodge Charger",
+			"vehicle": "21c318sedan",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Dodge Charger ST",
+			"vehicle": "slc318sedan",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Chevy Tahoe",
+			"vehicle": "21c318suv",
+			"isAvailableForEveryone": true
+		},
+		{
+			"name": "2018 Chevy Tahoe ST",
+			"vehicle": "slc318suv",
+			"isAvailableForEveryone": true
+		},
+	],
+	"ambulance": ["ambulance"],
+	"airAmbulance": ["polmav"],
+	"firedept": ["firetruk"],
+	"coroner": ["hearse"],
+	"towtruck": ["flatbed"],
+	"mechanic": ["utillitruck3"],
+	"prisontransport": ["speedo"],
+	"animalControl": ["bison"],
+	"taxi": ["taxi"]
+}

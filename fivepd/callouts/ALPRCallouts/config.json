@@ -1,0 +1,32 @@
+{
+    "AlprHitNoVehicleInsurance": {
+        "IgnoreDistance":false,
+        "MinTimeout":0,
+        "Probability":2,
+        "Departments":null
+    },
+    "AlprHitNoVehicleRegistration": {
+        "IgnoreDistance":false,
+        "MinTimeout":0,
+        "Probability":2,
+        "Departments":null
+    },
+    "AlprHitOwnerLicenseRevoked": {
+        "IgnoreDistance":false,
+        "MinTimeout":0,
+        "Probability":2,
+        "Departments":null
+    },
+    "AlprHitOwnerLicenseSuspended": {
+        "IgnoreDistance":false,
+        "MinTimeout":0,
+        "Probability":2,
+        "Departments":null
+    },
+    "AlprHitOwnerWarrant": {
+        "IgnoreDistance":false,
+        "MinTimeout":0,
+        "Probability":2,
+        "Departments":null
+    }
+}

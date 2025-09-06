@@ -1,0 +1,20 @@
+{
+  "EmergencyLanding":{
+    "IgnoreDistance":false,
+    "MinTimeout":600,
+    "Probability":2,
+    "Departments":[null]
+  },
+  "AlamoSeaLanding":{
+    "IgnoreDistance":false,
+    "MinTimeout":600,
+    "Probability":2,
+    "Departments":[null]
+  },
+  "LSIAEmergencyLanding":{
+    "IgnoreDistance":false,
+    "MinTimeout":600,
+    "Probability":2,
+    "Departments":[null]
+  },
+}
